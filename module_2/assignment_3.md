@@ -3,7 +3,11 @@
 
 # Tech Moms Student Demographic Dashboard Project
 
-In this hands-on project, you will help Tech Moms analyze their applicant and student data in order to complete their annual non-profit report.
+In this hands-on project, you will help Tech Moms analyze their applicant and student data in order to complete their annual non-profit report. 
+
+_Estimated Time to Complete: 6 hours_
+
+<img width="1552" alt="Screenshot 2024-07-28 at 2 16 17 AM" src="https://github.com/user-attachments/assets/7f6d2d76-29a5-4cff-aec6-cd9ea680d4c3">
 
 ## Project Overview
 
@@ -89,6 +93,8 @@ Functions work great for specific calculations while pivot tables are best for s
 - [ ] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
 - [ ] Upload the Tech-Moms logo to the dashboard.
 - [ ] Update the Dashboard theme to use Tech-Moms’ brand colors.
+
+
 
 ### Last Step: Ship it!
 
