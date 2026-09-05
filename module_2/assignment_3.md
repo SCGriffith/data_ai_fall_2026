@@ -9,6 +9,8 @@ _Estimated Time to Complete: 6 hours_
 
 <img width="1552" alt="Screenshot 2024-07-28 at 2 16 17 AM" src="https://github.com/user-attachments/assets/7f6d2d76-29a5-4cff-aec6-cd9ea680d4c3">
 
+Excel Tutorials: https://www.youtube.com/watch?v=l95FATT4atU&list=PLvJhtbaWAuW05WSc1tykLwD2_xw-KL_BI&index=5&t=122s
+
 ## Project Overview
 
 The Leadership team is preparing to release their 2024 Tech Moms Annual Report. Annual reports are typically data-driven. They are important for non-profits because they provide transparency and demonstrate impact, which are crucial for sustaining donor support. The team needs to know the updated numbers for their student demographic data as of July 31th, 2024. They share a .csv file titled “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”. The team asks that you analyze the data and provide them with insights into the updated student demographic numbers.
